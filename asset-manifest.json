@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hesddis.github.io/csb-u8b1wf/static/css/main.ef4d7b11.chunk.css",
+    "main.js": "https://hesddis.github.io/csb-u8b1wf/static/js/main.8fe0f7a5.chunk.js",
+    "main.js.map": "https://hesddis.github.io/csb-u8b1wf/static/js/main.8fe0f7a5.chunk.js.map",
+    "runtime-main.js": "https://hesddis.github.io/csb-u8b1wf/static/js/runtime-main.1a6a4db0.js",
+    "runtime-main.js.map": "https://hesddis.github.io/csb-u8b1wf/static/js/runtime-main.1a6a4db0.js.map",
+    "static/js/2.62e62b9f.chunk.js": "https://hesddis.github.io/csb-u8b1wf/static/js/2.62e62b9f.chunk.js",
+    "static/js/2.62e62b9f.chunk.js.map": "https://hesddis.github.io/csb-u8b1wf/static/js/2.62e62b9f.chunk.js.map",
+    "index.html": "https://hesddis.github.io/csb-u8b1wf/index.html",
+    "static/css/main.ef4d7b11.chunk.css.map": "https://hesddis.github.io/csb-u8b1wf/static/css/main.ef4d7b11.chunk.css.map",
+    "static/js/2.62e62b9f.chunk.js.LICENSE.txt": "https://hesddis.github.io/csb-u8b1wf/static/js/2.62e62b9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a6a4db0.js",
+    "static/js/2.62e62b9f.chunk.js",
+    "static/css/main.ef4d7b11.chunk.css",
+    "static/js/main.8fe0f7a5.chunk.js"
+  ]
+}
